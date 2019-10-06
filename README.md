@@ -1,7 +1,7 @@
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## NavLink Component
-<NavLink> is just like <Link>, with one additional feature
+#NavLink is just like #Link, with one additional feature
 
 If at page that link would go to, the <a> gets a CSS class of active
 
